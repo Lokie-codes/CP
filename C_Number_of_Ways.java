@@ -12,7 +12,6 @@ public class C_Number_of_Ways {
     }
 
     private static String solve() {
-        StringBuilder sb = new StringBuilder();
         // Add problem-specific solution logic here
         int n = in.nextInt(); // Read the size of the array
         if (n <= 3)
